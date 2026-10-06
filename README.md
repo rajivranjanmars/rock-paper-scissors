@@ -8,4 +8,4 @@ Run `python main.py` with Python 3 and follow the terminal prompts. No third-par
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
